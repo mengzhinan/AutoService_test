@@ -1,0 +1,5 @@
+include ':libInterface'
+include ':libB'
+include ':libA'
+include ':app'
+rootProject.name = "AutoService_test"
